@@ -1,0 +1,23 @@
+name: reproductor
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.10.8
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  just_audio: ^0.9.40
+  on_audio_query: ^2.9.0  
+  permission_handler: ^11.3.0 
+  audio_video_progress_bar: ^2.0.3
+  google_fonts: ^6.2.1
+   
+flutter:
+  uses-material-design: true
