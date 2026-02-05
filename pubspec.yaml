@@ -14,8 +14,7 @@ dev_dependencies:
   flutter_test:
     sdk: flutter
   just_audio: ^0.9.40
-  oon_audio_query: ^2.9.0
-  on_audio_query_android: ^2.9.0 
+  on_audio_query: ^2.8.0
   permission_handler: ^11.3.0 
   audio_video_progress_bar: ^2.0.3
   google_fonts: ^6.2.1
