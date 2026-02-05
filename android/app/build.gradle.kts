@@ -6,7 +6,7 @@ plugins {
 }
 
 android {
-    namespace = "com.example.reproductor"
+    namespace = "reproductor"
     compileSdk = flutter.compileSdkVersion
     ndkVersion = flutter.ndkVersion
 
